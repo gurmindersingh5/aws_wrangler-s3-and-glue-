@@ -57,6 +57,7 @@
 +----------------------------+                                                                                               
 
                                                                                                                                
-                                                                                                                               
+Requirements: Add Pandas layer to lambda function and need to create some IAM roles for lambda (S3 access and Glue access)
+
 <img width="934" alt="Screenshot 2024-07-08 at 3 22 16 AM" src="https://github.com/gurmindersingh5/aws_wrangler-s3-and-glue-/assets/123150161/0a6f400f-d3e6-4b5a-bdf5-51dcd2bce545">
 
